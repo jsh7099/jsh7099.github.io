@@ -1,0 +1,595 @@
+body
+{
+     /* background-color: #03C6B9;  */
+     background-color: #001639; 
+     overflow-x: hidden;
+    /* background-image: linear-gradient(#85E176,#FFBFF3); */
+}
+p
+{
+    font-family:"Trebuchet MS", Helvetica, sans-serif;
+    text-align: left;
+}
+header
+{
+    margin-left: auto;
+    margin-right: auto;
+    height: 100vh;
+    /* height: 100%; */
+}
+h1
+{
+    text-align: left;
+    padding-left: 10%;
+    padding-top: 20%;
+    font-size: 600%;
+    font-family:"Trebuchet MS", Helvetica, sans-serif;
+    font-weight:bold;
+    color: white;
+}
+
+#portfolio h2
+{
+    text-align: left;
+    padding-left: 10%;
+    padding-top: 5%;
+    font-size:300%;
+    font-weight:bold;
+    font-family:"Trebuchet MS", Helvetica, sans-serif;
+    /* color: #03C6B9; */
+    color: #001639;
+
+}
+
+h3
+{
+    color:white;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 300%;
+    padding: 2%;
+}
+
+h4
+{
+    text-align: left;
+    font-family:"Trebuchet MS", Helvetica, sans-serif;
+
+}
+
+h5
+{
+    text-align: left;
+    font-family:"Trebuchet MS", Helvetica, sans-serif;
+
+}
+
+h6
+{
+    text-align: left;
+    padding-left: 10%;
+    /* padding-top: 5%; */
+    padding-bottom: 5%;
+    font-size:150%;
+    font-weight:bold;
+    font-family:"Trebuchet MS", Helvetica, sans-serif;
+    /* color: #03C6B9; */
+    color: #001639;
+
+}
+
+header p
+{
+    text-align: left;
+    padding-left: 10%;
+    padding-top: 1%;
+    font-size: 200%;
+    font-family:"Trebuchet MS", Helvetica, sans-serif;
+    color:white;
+}
+img
+{
+   display: block;
+    /* margin-left: auto;
+    margin-right: auto; */
+    
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+
+    
+}
+
+#image1
+{
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#image2
+{
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#image3
+{
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#image4
+{
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#image5
+{
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#image6
+{
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#image7
+{
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#image8
+{
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#image9
+{
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#image10
+{
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#image11
+{
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#image12
+{
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#image18
+{
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#introText
+{
+    /* margin: 1px 10%; */
+    text-align: left;
+    /* padding:4%; */
+    /* margin-top: 10%; */
+    display: block;
+    position: relative;
+    background-color: #001639;
+    height: 70vh;
+    color: white;
+    font-size: 140%;
+}
+
+#introText p
+{
+    position: absolute;
+    top: 20%; left: 0; right: 0; bottom: 0;
+    margin: auto;
+    width: 80%;
+    height:80%;
+    font-size:9px;
+}
+
+#intro
+{
+    height:auto;
+    width: auto;
+}
+
+#introPic 
+{
+    /* margin: 1px 10%; */
+    /* padding:10%; */
+    display: block;
+    position: relative;
+    
+    background-color: #001639;
+    height: 70vh;
+}
+
+#introPic img
+{
+    position: absolute;
+    top:0; left: 0; right: 0; bottom: 0;
+    margin: auto;
+    width: 60%;
+}
+
+
+#portfolio
+{
+    background-color: white;
+    width: 100%;
+    padding-bottom: 5%;
+    /* height: 150vh; */
+}
+
+/* Properties of all of the boxes surrounding each project */
+.project
+{
+    background-color: #E5E5E5;
+    border-radius: 20px;
+    margin: 45px;
+    padding: 25px;
+}
+#contact li
+{
+    text-align: center;
+}
+
+#contact a
+{
+    text-decoration: none;
+}
+
+footer i
+{
+    color: white;
+}
+
+i:hover
+{
+    color: blue;
+}
+
+/* description of each projects */
+.details
+{
+    text-align: center;
+}
+
+span
+{
+    font-weight: bold;
+}
+
+footer
+{
+    /* border-top: 3px solid black; */
+    background-color: black;
+    list-style-type: none;
+    text-align: center;
+    font-size: 150%;
+}
+
+/* Properties for logos */
+i
+{
+    font-size: 40px;
+    margin: 5px;
+}
+
+/* PHP style */
+label {
+    display:block;
+    margin-top:20px;
+    letter-spacing:2px;
+}
+
+/* The submit button in email */
+#submit {
+    display:block;
+    margin-top:20px;
+}
+
+#email
+{
+    /* background-color: #ffdd86;
+    border: 2px dashed black; */
+    background-color:black;
+    width: 100%;
+    height: 100%;
+}
+
+
+#emailInner
+{
+    width:100%;
+    padding: 10px;
+}
+
+#name
+{
+    width: 110%;
+}
+
+#smallemail
+{
+    width: 144%;
+}
+
+#message
+{
+    margin-top: 5%;
+    width: 120%;
+}
+
+#submit
+{
+    width: 120%;
+}
+
+.navbar-dark
+{
+    background-color:black;
+}
+
+nav
+{
+    background-color:black;
+    height: 10%;
+}
+
+.nav-link 
+{
+    color: white !important;
+    font-size: 150%;
+}
+
+nav a:hover
+{
+    background-color: black;
+    transition-duration: 0.5s;
+    border-radius: 40px;
+}
+
+.navbar-brand
+{
+    display: block;
+    /* background-color:#1f8f87; */
+    background-color:#001639;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+}
+
+/* Line 143-163: Images' color will change when the mouse is over them */
+#image1:hover
+{
+    opacity: 0.7;
+    transition-duration: 0.5s;
+}
+
+#image2:hover
+{
+    opacity: 0.7;
+    transition-duration: 0.5s;
+}
+#image3:hover
+{
+    opacity: 0.7;
+    transition-duration: 0.5s;
+}
+#image4:hover
+{
+    opacity: 0.7;
+    transition-duration: 0.5s;
+}
+
+#image5:hover
+{
+    opacity: 0.7;
+    transition-duration: 0.5s;
+}
+#image6:hover
+{
+    opacity: 0.7;
+    transition-duration: 0.5s;
+}
+#image7:hover
+{
+    opacity: 0.7;
+    transition-duration: 0.5s;
+}
+#image8:hover
+{
+    opacity: 0.7;
+    transition-duration: 0.5s;
+}
+#image9:hover
+{
+    opacity: 0.7;
+    transition-duration: 0.5s;
+}
+#image10:hover
+{
+    opacity: 0.7;
+    transition-duration: 0.5s;
+}
+#image11:hover
+{
+    opacity: 0.7;
+    transition-duration: 0.5s;
+}
+
+#image12:hover
+{
+    opacity: 0.7;
+    transition-duration: 0.5s;
+}
+#image13:hover
+{
+    opacity: 0.7;
+    transition-duration: 0.5s;
+}
+#image14:hover
+{
+    opacity: 0.7;
+    transition-duration: 0.5s;
+}
+
+#image15:hover
+{
+    opacity: 0.7;
+    transition-duration: 0.5s;
+}
+#image16:hover
+{
+    opacity: 0.7;
+    transition-duration: 0.5s;
+}
+#image17:hover
+{
+    opacity: 0.7;
+    transition-duration: 0.5s;
+}
+#image18:hover
+{
+    opacity: 0.7;
+    transition-duration: 0.5s;
+}
+#image19:hover
+{
+    opacity: 0.7;
+    transition-duration: 0.5s;
+}
+#image20:hover
+{
+    opacity: 0.7;
+    transition-duration: 0.5s;
+}
+#submit:hover
+{
+    font-weight: bold;
+}
+#intro p
+{
+    font-size: 100%;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    /* position: absolute;
+    top:0; left: 0; right: 0; bottom: 0;
+    margin: auto; */
+}
+
+label
+{
+    font-weight: bold;
+}
+
+/* #portfolio1
+{
+    margin-bottom: 5%;
+}
+
+#portfolio2
+{
+    margin-bottom: 5%;
+} */
+
+/* Just in case the boxes distort */
+@media screen and (max-width: 1300px)
+{
+    #introText 
+    {
+        font-size: 90%;
+    }
+}  
+
+  @media screen and (max-width: 1100px)
+{
+
+    #portfolio h2
+    {
+        text-align: center;
+        padding-left:0;
+        padding-right:0;
+        padding-top: 5%;
+    }
+
+    #introText 
+    {
+        font-size: 100%;
+    }
+
+    #name
+    {
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    } 
+    #smallemail
+    {
+        width: 100%;
+    } 
+    #message
+    {
+        width: 100%;
+    } 
+
+    #submit
+    {
+        width: 100%;
+    } 
+}  
+
+@media screen and (max-width:600px)
+{
+    nav
+    {
+        height:10%;
+    }
+
+    #introText 
+    {
+        font-size: 90%;
+    }
+}
+
+@media screen and (max-width:550px)
+{
+    h1
+    {
+        text-align:center;
+        font-size: 300%;
+    }
+
+    header p
+    {
+        text-align:center;
+        font-size: 100%;
+    }
+
+    #introText 
+    {
+        font-size: 90%;
+    }
+}
